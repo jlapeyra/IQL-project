@@ -1,1 +1,4 @@
-Ara m'adono de tot.
+Línia 1
+Línia 2
+\
+Línia 3
